@@ -31,3 +31,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RVLareu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 </details>
+
+[gitlab](https://gitlab.com/RVLareu)
